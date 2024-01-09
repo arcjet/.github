@@ -7,10 +7,9 @@
 
 # Arcjet
 
-[Arcjet][arcjet] helps developers protect their apps. Installed as an SDK, it
-provides a set of core primitives such as rate limiting and bot protection.
-These can be used independently or combined to create a set of layered defenses,
-such as signup form protection.
+[Arcjet][arcjet] helps developers protect their apps in just a few lines of
+code. Implement rate limiting, bot protection, email verification & defend
+against common attacks.
 
 ## Getting started
 
