@@ -7,7 +7,7 @@
 
 # Arcjet
 
-[Arcjet][arcjet] Arcjet helps developers protect their apps in just a few lines
+[Arcjet][arcjet] helps developers protect their apps in just a few lines
 of code. Implement rate limiting, bot protection, email validation, and defense
 against common attacks.
 
