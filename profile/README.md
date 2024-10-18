@@ -7,9 +7,9 @@
 
 # Arcjet
 
-[Arcjet][arcjet] helps developers protect their apps in just a few lines
-of code. Implement rate limiting, bot protection, email validation, and defense
-against common attacks.
+[Arcjet][arcjet]  helps developers protect their apps in just a few lines 
+of code. Bot detection. Rate limiting. Email validation. Attack protection. 
+Data redaction. A developer-first approach to security.
 
 ## Getting started
 
@@ -21,5 +21,5 @@ against common attacks.
 
 ## Support
 
-[Join our Discord server](https://discord.gg/TPra6jqZDC) or email
+[Join our Discord server](https://arcjet.com/discord) or email
 <support@arcjet.com>
