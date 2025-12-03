@@ -7,9 +7,7 @@
 
 # Arcjet
 
-[Arcjet][arcjet]  helps developers protect their apps in just a few lines 
-of code. Bot detection. Rate limiting. Email validation. Attack protection. 
-Data redaction. A developer-first approach to security.
+[Arcjet][arcjet] is the security platform that ships with your code - bot detection, rate limiting, email validation, form spam prevention, WAF. Ship security features faster, with confidence.
 
 ## Getting started
 
