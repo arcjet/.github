@@ -7,11 +7,11 @@
 
 # Arcjet
 
-[Arcjet][arcjet] is the security platform that ships with your code - bot detection, rate limiting, email validation, form spam prevention, WAF. Ship security features faster, with confidence.
+[Arcjet][arcjet] is the runtime security platform that ships with your AI code. Stop bots and automated attacks from burning your AI budget, leaking data, or misusing tools with Arcjet's AI security building blocks.
 
 ## Getting started
 
-1. Sign up for a free account at [arcjet.com][arcjet].
+1. Sign up for an account at [arcjet.com][arcjet].
 2. [Follow the quick start][quick-start] for your platform.
 
 [arcjet]: https://arcjet.com
