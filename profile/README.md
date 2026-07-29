@@ -11,6 +11,8 @@
 
 ## Getting started
 
+Built for teams shipping AI features and agents that access data, call tools, or take actions in production.
+
 1. Sign up for an account at [arcjet.com][arcjet].
 2. [Follow the quick start][quick-start] for your platform.
 
